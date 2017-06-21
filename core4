@@ -44,19 +44,20 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td href = "https://www.google.com/search?q=variable+definition&oq=varia&aqs=chrome.0.69i59j0j69i57j0l3.1539j0j7&sourceid=chrome&ie=UTF-8"> An element, feature, or factor liable to vary or change </td>
+          <td href = "https://www.google.com/search?q=variable+definition&oq=varia&aqs=chrome.0.69i59j0j69i57j0l3.1539j0j7&sourceid=chrome&ie=UTF-8"> an element, feature, or factor liable to vary or change </td>
           <td> The number of donuts in an order is a vasriable. </td>
           <td> numDonuts = 12 </td>
-          <td> <img src=""/> </td>
+          <td> <img src="scratch.variable.jpg"/> a Scratch variable </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> a sequence of code that is continually repeated until a certain condition is reached </td>
+          <td> A human's life: same routine everyday </td>
+          <td> while numDonuts < 24 :
+                  discount = False </td>
+          <td> <img src="scratch.loop.jpg"> a scratch loop </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
