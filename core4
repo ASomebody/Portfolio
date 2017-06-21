@@ -63,19 +63,24 @@
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> how computer scientists tell computers to make choices </td>
+          <td> If it's rainging outside, then you will use an umbrella. </td>
+          <td> if user_input == "yes":
+                  print("Good") </td>
+          <td> <img src="scratch.conditional.JPG") a scratch conditional </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> a block/section of code that performs a defined action </td>
+          <td> When someone gives you a certain number of donuts, multiply that number by $3 </td>
+          <td> def aFunction:
+                  if numDonuts >= 24:
+                      discount = True
+                  if discount:
+                      costDonuts = costDonuts - 5 </td>
+          <td> <img src="scratch.function.jpg") </td>
         </tr>
 
       </table>
