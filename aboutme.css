@@ -2,13 +2,14 @@
     body {
       background-color: linen;
       text-align: center;
+        font-family: Meddon;
     }
     h1{
       color: maroon;
       padding: 20px;
       background-color: white;
       text-align: left;
-      font-family: 'Meddon';
+      font-family: Meddon;
     }
     .goto {
 
