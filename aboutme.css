@@ -1,30 +1,33 @@
-    
-    body {
-      background-color: linen;
-      text-align: center;
-        font-family: Meddon;
-    }
-    h1{
-      color: maroon;
-      padding: 20px;
-      background-color: white;
-      text-align: left;
-      font-family: Meddon;
-    }
-    .goto {
+body {
+  background-color: linen;
+  text-align: center;
+  font-family: Meddon;
+}
+h1{
+  color: maroon;
+  padding: 20px;
+  background-color: white;
+  text-align: left;
+  font-family: 'Lobster Two', cursive;
+}
+.goto {
+  text-decoration: none;
+  background-color: lightgray;
+  border: none;
+  color: white;
+  padding: 20px 50px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Sacramento', cursive;
+}
 
-      text-decoration: none;
-      background-color: lightgray;
-      border: none;
-      color: white;
-      padding: 20px 50px;
-      text-align: center;
-      display: inline-block;
-      font-size: 16px;
-      font-family: 'Comic Sans MS';
+.goto:hover{
+  text-decoration: underline;
+}
 
-    }
-    #paraText {
-      margin-left: 50px;
-      margin-right: 50px;
-    }
+#paraText {
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: ;
+}
