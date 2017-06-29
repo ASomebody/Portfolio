@@ -1,24 +1,30 @@
+nav ul li{
+  text-decoration: none;
+  display: inline;
+}
+
 body {
-  background-color: linen;
+  background-color: white;
   text-align: center;
   font-family: Meddon;
 }
-h1{
-  color: maroon;
+.title{
+  color: #1BCD8A;
   padding: 20px;
-  background-color: white;
+  background-color: none;
   text-align: left;
+  font-size: 40px;
   font-family: 'Lobster Two', cursive;
 }
 .goto {
   text-decoration: none;
-  background-color: lightgray;
+  background-color: none;
   border: none;
-  color: white;
   padding: 20px 50px;
+  /*display: inline-block;*/
+  color: #2FF5CE;
   text-align: center;
-  display: inline-block;
-  font-size: 20px;
+  font-size: 23px;
   font-family: 'Sacramento', cursive;
 }
 
@@ -29,5 +35,5 @@ h1{
 #paraText {
   margin-left: 50px;
   margin-right: 50px;
-  font-family: ;
+  font-family: 'Bellefair', serif;
 }
