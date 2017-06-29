@@ -1,18 +1,13 @@
-nav ul li{
-  text-decoration: none;
-  display: inline;
-}
-
 body {
   background-color: white;
   text-align: center;
-  font-family: Meddon;
+  font-family: "Bellefair";
 }
-.title{
-  color: #1BCD8A;
+h1{
+  color: #0D814F;
   padding: 20px;
   background-color: none;
-  text-align: left;
+  text-align: center;
   font-size: 40px;
   font-family: 'Lobster Two', cursive;
 }
@@ -22,7 +17,7 @@ body {
   border: none;
   padding: 20px 50px;
   /*display: inline-block;*/
-  color: #2FF5CE;
+  color: #21A56C;
   text-align: center;
   font-size: 23px;
   font-family: 'Sacramento', cursive;
