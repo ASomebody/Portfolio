@@ -1,50 +1,55 @@
 body {
   background-color: white;
   text-align: center;
-  font-family: "Bellefair";
+  font-family: "Bellefair", serif;
 }
-h1{
+.head{
   color: #0D814F;
-  padding: 20px;
-  background-color: none;
-  text-align: center;
-  font-size: 40px;
   font-family: 'Lobster Two', cursive;
+  font-size: 40px;
+  /*border-bottom: thin solid black;*/
 }
-.goto {
+
+/* ul{
+    border-bottom: thin solid #21A56C;
+    position: fixed;
+    overflow: auto;
+} */
+
+nav ul li, .goto {
   text-decoration: none;
-  background-color: none;
-  border: none;
-  padding: 20px 50px;
-  /*display: inline-block;*/
+  list-style-type: none;
+  display: inline;
   color: #21A56C;
-  text-align: center;
   font-size: 23px;
   font-family: 'Sacramento', cursive;
+  margin-right: 20px;
 }
 
 .goto:hover{
   text-decoration: underline;
 }
 
-.dropdown {
-  position: absolute;
+.reflections{
+  position: relative;
   display: inline-block;
 }
 
 .droptions {
     display: none;
-    position: relative;
+    position: absolute;
     background-color: white;
     padding: 8px 10px;
 }
 
 .gotoMini{
   text-decoration: none;
+  font-family: "Bellefair", serif;
+  font-size: 15px;
   color: #21A56C;
 }
 
-.dropdown:hover .droptions {
+.reflections:hover .droptions {
     display: block;
 }
 
